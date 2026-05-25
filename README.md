@@ -20,7 +20,7 @@ The report uses interactive visuals, slicers, KPIs, and DAX measures to provide 
 - Analyze spending trends over time
 - Build an interactive and user-friendly financial dashboard
 
-## Dataset
+## 🗂️ Dataset
 👉 [View Dataset](./Family_Expenses_25.xlsx)
 
 ## ⚙️ Process
@@ -56,7 +56,7 @@ The report uses interactive visuals, slicers, KPIs, and DAX measures to provide 
   - Used interactive visuals to analyze spending behavior and savings trends.
   - Created budget tracking visuals to compare planned vs actual expenses.
 
-## Dashboard: Family Expenses-2025 Dashboard
+## 📷 Dashboard: Family Expenses-2025 Dashboard
 ![Family_Expenses_25_Dashboard](./Family_Expenses_25_Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
